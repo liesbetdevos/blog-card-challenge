@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    background-color: #FAFAF9;
+    font-family: Sora;
+}
+
+div.card {
+    width: 358px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    padding: 16px;
+    height: fit-content;
+    margin-top: 160px;
+}
+
+img {
+    border-radius: 8px;
+    width: 100%;
+}
+
+div.tag {
+    background-color: #F2EAFD;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 6px 16px;
+    margin: 16px 0px;
+}
+
+div.tag > p {
+    margin: 0px;
+    color: #7614a0;
+    font-size: 10px;
+    font-weight: 600;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 6px;
+}
+
+div.text-block p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #82858b;
+    margin-bottom: 20px;
+    line-height: 20px;
+    margin-right: 20px;
+}
+
+hr {
+    border: 0.5px solid #E5EAF0;
+    margin: 0px -16px 16px -16px;
+}
+
+p.author {
+    font-size: 12px;
+    font-weight: 500;
+    color: #82858b ;
+}
