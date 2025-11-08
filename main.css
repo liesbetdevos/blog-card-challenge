@@ -5,6 +5,7 @@
 .main {
     display: flex;
     justify-content: center;
+    align-items: center;
     height: 100vh;
     background-color: #FAFAF9;
     font-family: Sora;
@@ -16,7 +17,6 @@ div.card {
     box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
     padding: 16px;
     height: fit-content;
-    margin-top: 160px;
     background-color: #FFFFFF;
 }
 
